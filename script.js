@@ -65,7 +65,7 @@ gsap.from("#about-us img,#about-us-in",{
         trigger:"#about-us",
         scroller:"body", 
         // markers:true,
-        start:"top 60%", 
+        start:"top 75%", 
         end: "top 58%",
         scrub:3
     },
