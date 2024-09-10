@@ -19,10 +19,11 @@
     z-index: -1;
   }
 
-  /* #nav #logo-main {
+  #nav #logo-main {
+    margin-left: 0.1%;
     height: 50px;
     /* background-color: red; */
-  /* }  */
+  }
   #main {
     position: relative;
     background-color: rgba(0, 0, 0, 0.689);
@@ -53,7 +54,7 @@
   #nav-accounts,
   #nav-about-us {
     display: none;
-    background-color: red;
+    /* background-color: red; */
   }
   .nav-top #nav-home {
     font-size: 2vmax;
@@ -64,9 +65,6 @@
   }
   .nav-top #nav-accounts {
     font-size: 15px;
-  }
-  #nav {
-/*     background-color: red; */
   }
 
   #nav #login-register {
